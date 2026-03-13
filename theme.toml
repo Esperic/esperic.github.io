@@ -4,9 +4,9 @@
 name = "PaperMod"
 license = "MIT"
 licenselink = "https://github.com/adityatelange/hugo-PaperMod/blob/master/LICENSE"
-description = "A fast, clean, responsive Hugo theme"
-homepage = "https://adityatelange.github.io/hugo-PaperMod/"
-demosite = "https://adityatelange.github.io/hugo-PaperMod/"
+description = "A fast, clean, responsive Hugo theme modified by Yingkai Huo"
+homepage = "https://esperic.github.io/"
+demosite = "https://esperic.github.io/"
 tags = [
   "responsive",
   "simple",
@@ -41,8 +41,9 @@ features = [
 min_version = "0.146.0"
 
 [author]
-  name = "Aditya Telange"
-  homepage = "https://github.com/adityatelange/"
+  name = "Yingkai Huo"
+  homepage = "https://github.com/Esperic/"
+  description = "Mechanical Engineering student at Shanghai Jiao Tong University"
 
 # If porting an existing theme
 [original]
